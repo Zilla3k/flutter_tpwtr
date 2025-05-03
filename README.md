@@ -25,7 +25,7 @@
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/type_weather.git
+git clone https://github.com/Zilla3k/flutter_tpwtr.git
 cd type_weather
 ```
 
