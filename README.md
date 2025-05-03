@@ -26,7 +26,7 @@
 
 ```bash
 git clone https://github.com/Zilla3k/flutter_tpwtr.git
-cd type_weather
+cd flutter_tpwtr
 ```
 
 ### 2. Instale as dependências
